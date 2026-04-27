@@ -1,1 +1,9 @@
-
+[project]
+name = "deutsch-jozsa"
+version = "0.1.0"
+dependencies = [
+    "qiskit",
+    "qiskit-aer",
+    "numpy",
+    "matplotlib"
+]
